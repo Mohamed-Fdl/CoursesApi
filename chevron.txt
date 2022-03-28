@@ -1,0 +1,11 @@
+<
+
+>
+
+$
+
+sudo systemctl start mongod
+
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjM5YTI5OTA3OWY3MThmMDAwOTllOGQiLCJpc0FkbWluIjp0cnVlLCJpYXQiOjE2NDc5NDUwNDl9.YzcFZqXnrZAXJCDZjrq4U6k97thPq8UQCrs_pZA4zvk
